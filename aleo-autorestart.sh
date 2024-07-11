@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # 适用官方脚本 aleo.sh
 # token获取地址 https://www.f2pool.com/user/account#tab-api
 API_TOKEN=
